@@ -158,34 +158,6 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/KaushanS">
-    <img alt="KaushanS's GitHub Stats"
-      src="https://github-readme-stats.vercel.app/api?username=KaushanS&show_icons=true&count_private=true&theme=tokyonight&hide_border=true"
-      height="180px" />
-  </a>
-
-  <a href="https://github.com/KaushanS">
-    <img alt="Top Languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaushanS&layout=compact&theme=tokyonight&hide_border=true"
-      height="180px" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img alt="Quote"
-      src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming" />
-  </a>
-</p>
-
----
-
 ## 🐍 A Snake Eating my Contributions Graph
 
 <p align="center">
